@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FpIouImlxcE=",
+  "success": true,
+  "projectFilePath": "F:\\Folder GHINAN\\Visual Studio\\KasirKafe_Kel6\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10pro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\Win10pro\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
