@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Folder GHINAN\\Visual Studio\\Kelompok6_TubesCLO2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC00EA-D3D5-F4AB-0835-D5854DDD6BDC}|Kelompok6_TubesCLO2\\Kelompok6_TubesCLO2.csproj|f:\\folder ghinan\\visual studio\\kelompok6_tubesclo2\\kelompok6_tubesclo2\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BC00EA-D3D5-F4AB-0835-D5854DDD6BDC}|Kelompok6_TubesCLO2\\Kelompok6_TubesCLO2.csproj|solutionrelative:kelompok6_tubesclo2\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC00EA-D3D5-F4AB-0835-D5854DDD6BDC}|Kelompok6_TubesCLO2\\Kelompok6_TubesCLO2.csproj|f:\\folder ghinan\\visual studio\\kelompok6_tubesclo2\\kelompok6_tubesclo2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BC00EA-D3D5-F4AB-0835-D5854DDD6BDC}|Kelompok6_TubesCLO2\\Kelompok6_TubesCLO2.csproj|solutionrelative:kelompok6_tubesclo2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Visual Studio\\Kelompok6_TubesCLO2\\Kelompok6_TubesCLO2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Kelompok6_TubesCLO2\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Visual Studio\\Kelompok6_TubesCLO2\\Kelompok6_TubesCLO2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Kelompok6_TubesCLO2\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T15:33:02.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Visual Studio\\Kelompok6_TubesCLO2\\Kelompok6_TubesCLO2\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "Kelompok6_TubesCLO2\\Models\\Menu.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Visual Studio\\Kelompok6_TubesCLO2\\Kelompok6_TubesCLO2\\Models\\Menu.cs",
+              "RelativeToolTip": "Kelompok6_TubesCLO2\\Models\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T12:42:51.286Z",
+              "EditorCaption": ""
             }
           ]
         }

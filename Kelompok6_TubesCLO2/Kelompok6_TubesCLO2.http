@@ -1,6 +1,0 @@
-@Kelompok6_TubesCLO2_HostAddress = http://localhost:5247
-
-GET {{Kelompok6_TubesCLO2_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
