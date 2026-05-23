@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "KasirKafe_Kel6.Controllers.MenuController",
+    "Method": "GetAllMenu",
+    "RelativePath": "api/Menu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KasirKafe_Kel6.Controllers.MenuController",
+    "Method": "AddMenu",
+    "RelativePath": "api/Menu",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "menuBaru",
+        "Type": "KasirKafe_Kel6.Models.Menu",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "KasirKafe_Kel6.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

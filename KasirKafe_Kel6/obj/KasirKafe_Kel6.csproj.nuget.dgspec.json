@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Folder GHINAN\\Visual Studio\\KasirKafe_Kel6\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj": {}
+    "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj": {}
   },
   "projects": {
-    "F:\\Folder GHINAN\\Visual Studio\\KasirKafe_Kel6\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj": {
+    "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Folder GHINAN\\Visual Studio\\KasirKafe_Kel6\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+        "projectUniqueName": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
         "projectName": "KasirKafe_Kel6",
-        "projectPath": "F:\\Folder GHINAN\\Visual Studio\\KasirKafe_Kel6\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+        "projectPath": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
         "packagesPath": "C:\\Users\\Win10pro\\.nuget\\packages\\",
-        "outputPath": "F:\\Folder GHINAN\\Visual Studio\\KasirKafe_Kel6\\KasirKafe_Kel6\\obj\\",
+        "outputPath": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -55,6 +55,14 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[10.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.7, )"
             }
           },
           "imports": [
@@ -76,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300-preview.0.26177.108/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

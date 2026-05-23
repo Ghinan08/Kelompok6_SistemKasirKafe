@@ -1,19 +1,181 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Folder GHINAN\\Visual Studio\\KasirKafe_Kel6\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|c:\\users\\win10pro\\documents\\visualstudio\\tubes kpl\\kelompok6_sistemkasirkafe\\kasirkafe\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\win10pro\\documents\\visualstudio\\tubes kpl\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\win10pro\\documents\\visualstudio\\tubes kpl\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\win10pro\\documents\\visualstudio\\tubes kpl\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\win10pro\\documents\\visualstudio\\tubes kpl\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\win10pro\\documents\\visualstudio\\tubes kpl\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\win10pro\\documents\\visualstudio\\tubes kpl\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\win10pro\\documents\\visualstudio\\tubes kpl\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\win10pro\\documents\\visualstudio\\tubes kpl\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\kasirkafe_kel6.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\kasirkafe_kel6.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\win10pro\\documents\\visualstudio\\tubes kpl\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\kasirkafe_kel6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\kasirkafe_kel6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 131,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test1.cs",
+              "RelativeDocumentMoniker": "KasirKafe\\Test1.cs",
+              "ToolTip": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test1.cs",
+              "RelativeToolTip": "KasirKafe\\Test1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T11:51:11.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Program.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Program.cs",
+              "ToolTip": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Program.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T03:21:23.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Menu.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Models\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T03:29:44.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T03:37:00.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\Repository.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T03:38:49.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T03:33:38.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KasirKafe_Kel6\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T03:51:25.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T03:30:30.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KasirKafe_Kel6.http",
+              "DocumentMoniker": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.http",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\KasirKafe_Kel6.http",
+              "ToolTip": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.http",
+              "RelativeToolTip": "KasirKafe_Kel6\\KasirKafe_Kel6.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-23T03:54:07.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KasirKafe_Kel6",
+              "DocumentMoniker": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+              "ToolTip": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+              "RelativeToolTip": "KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-23T03:51:17.038Z"
             }
           ]
         }
