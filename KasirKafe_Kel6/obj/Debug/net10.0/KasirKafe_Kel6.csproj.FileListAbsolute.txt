@@ -33,3 +33,44 @@ F:\Folder GHINAN\Visual Studio\KasirKafe_Kel6\KasirKafe_Kel6\obj\Debug\net10.0\r
 F:\Folder GHINAN\Visual Studio\KasirKafe_Kel6\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.pdb
 F:\Folder GHINAN\Visual Studio\KasirKafe_Kel6\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.genruntimeconfig.cache
 F:\Folder GHINAN\Visual Studio\KasirKafe_Kel6\KasirKafe_Kel6\obj\Debug\net10.0\ref\KasirKafe_Kel6.dll
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\appsettings.json
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\KasirKafe_Kel6.staticwebassets.endpoints.json
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\KasirKafe_Kel6.exe
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\KasirKafe_Kel6.deps.json
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\KasirKafe_Kel6.runtimeconfig.json
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\KasirKafe_Kel6.dll
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\KasirKafe_Kel6.pdb
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.csproj.AssemblyReference.cache
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.AssemblyInfoInputs.cache
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.AssemblyInfo.cs
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.csproj.CoreCompileInputs.cache
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.sourcelink.json
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\scopedcss\bundle\KasirKafe_Kel6.styles.css
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKaf.20EF528F.Up2Date
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.dll
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\refint\KasirKafe_Kel6.dll
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.pdb
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.genruntimeconfig.cache
+C:\Users\Win10pro\Documents\VisualStudio\Tubes KPL\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\ref\KasirKafe_Kel6.dll
