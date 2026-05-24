@@ -611,23 +611,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Win10pro\\.nuget\\packages\\": {},
+    "C:\\Users\\MSI GF63\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+      "projectUniqueName": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
       "projectName": "KasirKafe_Kel6",
-      "projectPath": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
-      "packagesPath": "C:\\Users\\Win10pro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\obj\\",
+      "projectPath": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+      "packagesPath": "C:\\Users\\MSI GF63\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Win10pro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MSI GF63\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -694,7 +694,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300-preview.0.26177.108/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

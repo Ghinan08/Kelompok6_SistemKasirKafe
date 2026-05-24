@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "Wlmx7+xR7I4=",
+  "dgSpecHash": "09FikdNsvRc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Win10pro\\Documents\\VisualStudio\\Tubes KPL\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+  "projectFilePath": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Win10pro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
-    "C:\\Users\\Win10pro\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.8\\microsoft.entityframeworkcore.10.0.8.nupkg.sha512",
-    "C:\\Users\\Win10pro\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.8\\microsoft.entityframeworkcore.abstractions.10.0.8.nupkg.sha512",
-    "C:\\Users\\Win10pro\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.8\\microsoft.entityframeworkcore.analyzers.10.0.8.nupkg.sha512",
-    "C:\\Users\\Win10pro\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.8\\microsoft.entityframeworkcore.inmemory.10.0.8.nupkg.sha512",
-    "C:\\Users\\Win10pro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
-    "C:\\Users\\Win10pro\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
-    "C:\\Users\\Win10pro\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.7\\swashbuckle.aspnetcore.10.1.7.nupkg.sha512",
-    "C:\\Users\\Win10pro\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.7\\swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
-    "C:\\Users\\Win10pro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.7\\swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
-    "C:\\Users\\Win10pro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.7\\swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512"
+    "C:\\Users\\MSI GF63\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\MSI GF63\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.8\\microsoft.entityframeworkcore.10.0.8.nupkg.sha512",
+    "C:\\Users\\MSI GF63\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.8\\microsoft.entityframeworkcore.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\MSI GF63\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.8\\microsoft.entityframeworkcore.analyzers.10.0.8.nupkg.sha512",
+    "C:\\Users\\MSI GF63\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.8\\microsoft.entityframeworkcore.inmemory.10.0.8.nupkg.sha512",
+    "C:\\Users\\MSI GF63\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\MSI GF63\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\MSI GF63\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.7\\swashbuckle.aspnetcore.10.1.7.nupkg.sha512",
+    "C:\\Users\\MSI GF63\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.7\\swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
+    "C:\\Users\\MSI GF63\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.7\\swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
+    "C:\\Users\\MSI GF63\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.7\\swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512"
   ],
   "logs": []
 }
