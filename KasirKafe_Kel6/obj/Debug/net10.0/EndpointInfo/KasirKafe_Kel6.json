@@ -5,6 +5,49 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/KalkulasiHarga/variasi": {
+      "get": {
+        "tags": [
+          "KalkulasiHarga"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/KalkulasiHarga/hitung": {
+      "post": {
+        "tags": [
+          "KalkulasiHarga"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/KalkulasiHargaRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/KalkulasiHargaRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/KalkulasiHargaRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Menu": {
       "get": {
         "tags": [
@@ -46,41 +89,46 @@
         }
       }
     },
-    "/WeatherForecast": {
+    "/api/Menu/{id}": {
       "get": {
         "tags": [
-          "WeatherForecast"
+          "Menu"
         ],
-        "operationId": "GetWeatherForecast",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/WeatherForecast"
-                  }
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/WeatherForecast"
-                  }
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/WeatherForecast"
-                  }
-                }
-              }
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Menu"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
             }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
           }
         }
       }
@@ -88,6 +136,23 @@
   },
   "components": {
     "schemas": {
+      "KalkulasiHargaRequest": {
+        "type": "object",
+        "properties": {
+          "menuId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "variasi": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/MenuVariasi"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "Menu": {
         "type": "object",
         "properties": {
@@ -106,25 +171,16 @@
         },
         "additionalProperties": false
       },
-      "WeatherForecast": {
+      "MenuVariasi": {
         "type": "object",
         "properties": {
-          "date": {
-            "type": "string",
-            "format": "date"
-          },
-          "temperatureC": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "temperatureF": {
-            "type": "integer",
-            "format": "int32",
-            "readOnly": true
-          },
-          "summary": {
+          "namaVariasi": {
             "type": "string",
             "nullable": true
+          },
+          "jumlah": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false
@@ -133,10 +189,10 @@
   },
   "tags": [
     {
-      "name": "Menu"
+      "name": "KalkulasiHarga"
     },
     {
-      "name": "WeatherForecast"
+      "name": "Menu"
     }
   ]
 }

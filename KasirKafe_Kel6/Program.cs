@@ -1,17 +1,18 @@
 using KasirKafe_Kel6.Data;
 using KasirKafe_Kel6.Repositories;
+using KasirKafe_Kel6.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
-
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseInMemoryDatabase("KasirKafeDb"));
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+builder.Services.AddScoped<KalkulasiHargaService>();
 
 var app = builder.Build();
 
