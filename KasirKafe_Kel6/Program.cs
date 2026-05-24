@@ -1,4 +1,5 @@
 using KasirKafe_Kel6.Data;
+using KasirKafe_Kel6.Models;
 using KasirKafe_Kel6.Repositories;
 using KasirKafe_Kel6.Services;
 using Microsoft.EntityFrameworkCore;
@@ -13,6 +14,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseInMemoryDatabase("KasirKafeDb"));
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddScoped<KalkulasiHargaService>();
+builder.Services.Configure<TokoSettings>(
+    builder.Configuration.GetSection("TokoSettings"));
+builder.Services.AddScoped<PromoService>();
 
 var app = builder.Build();
 

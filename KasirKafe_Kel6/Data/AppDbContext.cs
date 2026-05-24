@@ -7,5 +7,6 @@ namespace KasirKafe_Kel6.Data
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
         public DbSet<Menu> Menus { get; set; }
+        public DbSet<Pesanan> Pesanans { get; set; } 
     }
 }

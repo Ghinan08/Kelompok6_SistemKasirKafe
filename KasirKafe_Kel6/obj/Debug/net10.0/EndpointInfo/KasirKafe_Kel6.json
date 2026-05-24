@@ -132,6 +132,104 @@
           }
         }
       }
+    },
+    "/api/Pesanan": {
+      "post": {
+        "tags": [
+          "Pesanan"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PesananRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PesananRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PesananRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Pesanan"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Pesanan/{id}/status": {
+      "put": {
+        "tags": [
+          "Pesanan"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Promo/hitung": {
+      "get": {
+        "tags": [
+          "Promo"
+        ],
+        "parameters": [
+          {
+            "name": "harga",
+            "in": "query",
+            "schema": {
+              "type": "number",
+              "format": "double"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Promo/info-toko": {
+      "get": {
+        "tags": [
+          "Promo"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -184,6 +282,24 @@
           }
         },
         "additionalProperties": false
+      },
+      "PesananRequest": {
+        "type": "object",
+        "properties": {
+          "namaMenu": {
+            "type": "string",
+            "nullable": true
+          },
+          "jumlah": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "totalHarga": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
       }
     }
   },
@@ -193,6 +309,12 @@
     },
     {
       "name": "Menu"
+    },
+    {
+      "name": "Pesanan"
+    },
+    {
+      "name": "Promo"
     }
   ]
 }

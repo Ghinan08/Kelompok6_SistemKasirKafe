@@ -35,6 +35,13 @@ namespace KasirKafe_Kel6.Repositories
             _dbSet.Add(entity);
             _context.SaveChanges();
         }
+        public void Update(T entity)
+        {
+            if (entity == null)
+                throw new ArgumentNullException(nameof(entity), "Data yang ingin diupdate tidak boleh kosong");
+            _dbSet.Update(entity);
+            _context.SaveChanges();
+        }
 
         public void Delete(int id)
         {
