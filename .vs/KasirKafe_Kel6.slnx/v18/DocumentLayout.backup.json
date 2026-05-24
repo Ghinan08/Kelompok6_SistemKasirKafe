@@ -1,81 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\",
+  "WorkspaceRootPath": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe\\kasirkafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\promoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\promoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe\\kasirkafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\kasirkafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\kasirkafe_kel6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\kasirkafe_kel6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\promocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\promocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\kalkulasihargacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\kalkulasihargacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\hitungpromoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\hitungpromoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\kalkulasihargaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\kalkulasihargaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\kalkulasiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\kalkulasiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\kalkulasihargarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\kalkulasihargarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\menuvariasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\menuvariasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\kasirkafe_kel6.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\kasirkafe_kel6.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\kasirkafe_kel6.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\msi gf63\\documents\\tel-u\\semester 4\\konstruksi perangkat lunak\\tugas kelompok6_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\kasirkafe_kel6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\kalkulasihargaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\kalkulasihargaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\tokosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\tokosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\menuvariasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\menuvariasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\kalkulasiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\kalkulasiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\kalkulasihargarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\kalkulasihargarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\kalkulasihargacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\kalkulasihargacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|d:\\dzulfaqar_sistemkasirkafe\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\kasirkafe_kel6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\kasirkafe_kel6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -86,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 131,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,132 +110,180 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KasirKafe_Kel6.csproj",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+              "RelativeToolTip": "KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-24T16:33:36.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KasirKafe.csproj",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe\\KasirKafe.csproj",
+              "RelativeDocumentMoniker": "KasirKafe\\KasirKafe.csproj",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe\\KasirKafe.csproj",
+              "RelativeToolTip": "KasirKafe\\KasirKafe.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-24T16:32:56.635Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Test2.cs",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test2.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test2.cs",
               "RelativeDocumentMoniker": "KasirKafe\\Test2.cs",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test2.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test2.cs",
               "RelativeToolTip": "KasirKafe\\Test2.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMBAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAJUBAAAAAAAAAAAYwDwBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T15:54:26.954Z",
+              "WhenOpened": "2026-05-24T16:23:35.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "KasirKafe.csproj",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe\\KasirKafe.csproj",
-              "RelativeDocumentMoniker": "KasirKafe\\KasirKafe.csproj",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe\\KasirKafe.csproj",
-              "RelativeToolTip": "KasirKafe\\KasirKafe.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-23T16:17:25.746Z"
+              "Title": "PromoService.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PromoService.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\PromoService.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PromoService.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Services\\PromoService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:00:21.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HitungPromoResult.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\HitungPromoResult.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\HitungPromoResult.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\HitungPromoResult.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Models\\HitungPromoResult.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T15:59:58.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KasirKafe_Kel6.http",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.http",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\KasirKafe_Kel6.http",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.http",
+              "RelativeToolTip": "KasirKafe_Kel6\\KasirKafe_Kel6.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-23T03:54:07.564Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Program.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Program.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Program.cs",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Program.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Program.cs",
               "RelativeToolTip": "KasirKafe_Kel6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvw8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-23T03:21:23.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "KalkulasiHargaController.cs",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T15:50:19.757Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Test1.cs",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test1.cs",
-              "RelativeDocumentMoniker": "KasirKafe\\Test1.cs",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test1.cs",
-              "RelativeToolTip": "KasirKafe\\Test1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T11:51:11.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MSTestSettings.cs",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe\\MSTestSettings.cs",
-              "RelativeDocumentMoniker": "KasirKafe\\MSTestSettings.cs",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe\\MSTestSettings.cs",
-              "RelativeToolTip": "KasirKafe\\MSTestSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T12:35:34.364Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\MenuController.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\MenuController.cs",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\MenuController.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\MenuController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowBEAAAARAAAAAAAAAA==",
+              "Title": "PromoController.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PromoController.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\PromoController.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PromoController.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\PromoController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T03:30:30.532Z"
+              "WhenOpened": "2026-05-24T16:00:54.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\appsettings.json",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\appsettings.json",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\appsettings.json",
+              "RelativeToolTip": "KasirKafe_Kel6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-24T15:39:38.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T03:37:00.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\Repository.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Repositories\\Repository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T03:38:49.318Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T03:33:38.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "KalkulasiHargaService.cs",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
               "RelativeToolTip": "KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAwwBQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwv14AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-23T15:48:09.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "KalkulasiResult.cs",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "TokoSettings.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\TokoSettings.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\TokoSettings.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\TokoSettings.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Models\\TokoSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T15:45:32.259Z"
+              "WhenOpened": "2026-05-24T15:44:00.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "KalkulasiHargaRequest.cs",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T15:45:11.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "MenuVariasi.cs",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\MenuVariasi.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\MenuVariasi.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\MenuVariasi.cs",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\MenuVariasi.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\MenuVariasi.cs",
               "RelativeToolTip": "KasirKafe_Kel6\\Models\\MenuVariasi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -227,59 +291,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\ApiResponse.cs",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\ApiResponse.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Models\\ApiResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T15:43:28.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T03:33:38.093Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\Repository.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T03:38:49.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T03:37:00.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Menu.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Menu.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\Menu.cs",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Menu.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Menu.cs",
               "RelativeToolTip": "KasirKafe_Kel6\\Models\\Menu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -288,34 +304,82 @@
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "KalkulasiResult.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:45:32.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KalkulasiHargaRequest.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:45:11.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\ApiResponse.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:43:28.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T03:30:30.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KalkulasiHargaController.cs",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvzwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:50:19.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Properties\\launchSettings.json",
               "RelativeToolTip": "KasirKafe_Kel6\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-05-23T03:51:25.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "KasirKafe_Kel6.http",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.http",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\KasirKafe_Kel6.http",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.http",
-              "RelativeToolTip": "KasirKafe_Kel6\\KasirKafe_Kel6.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-05-23T03:54:07.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "KasirKafe_Kel6",
-              "DocumentMoniker": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+              "DocumentMoniker": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
-              "ToolTip": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+              "ToolTip": "D:\\Dzulfaqar_SistemKasirkafe\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
               "RelativeToolTip": "KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-05-23T03:51:17.038Z"
