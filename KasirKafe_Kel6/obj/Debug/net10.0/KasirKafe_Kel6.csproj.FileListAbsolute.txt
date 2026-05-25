@@ -155,3 +155,44 @@ D:\Dzulfaqar_SistemKasirkafe\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\
 D:\Dzulfaqar_SistemKasirkafe\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.pdb
 D:\Dzulfaqar_SistemKasirkafe\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.genruntimeconfig.cache
 D:\Dzulfaqar_SistemKasirkafe\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\ref\KasirKafe_Kel6.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\appsettings.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\KasirKafe_Kel6.staticwebassets.endpoints.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\KasirKafe_Kel6.exe
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\KasirKafe_Kel6.deps.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\KasirKafe_Kel6.runtimeconfig.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\KasirKafe_Kel6.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\KasirKafe_Kel6.pdb
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.csproj.AssemblyReference.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.AssemblyInfoInputs.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.AssemblyInfo.cs
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.csproj.CoreCompileInputs.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.sourcelink.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\scopedcss\bundle\KasirKafe_Kel6.styles.css
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKaf.20EF528F.Up2Date
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\refint\KasirKafe_Kel6.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.pdb
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\KasirKafe_Kel6.genruntimeconfig.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafe_Kel6\obj\Debug\net10.0\ref\KasirKafe_Kel6.dll

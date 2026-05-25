@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KasirKafe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2637475d8465e61442e68ccc0515dc5b38c03c04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ac0fb806b77e8ea33d773e4158ee3fb36c1938f")]
 [assembly: System.Reflection.AssemblyProductAttribute("KasirKafe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KasirKafe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

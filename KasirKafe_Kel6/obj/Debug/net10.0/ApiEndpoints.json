@@ -1,5 +1,47 @@
 [
   {
+    "ContainingType": "KasirKafe_Kel6.Controllers.BahanBakuController",
+    "Method": "TambahBahanBaku",
+    "RelativePath": "api/BahanBaku",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nama",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "stokAwal",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KasirKafe_Kel6.Controllers.BahanBakuController",
+    "Method": "UpdateStok",
+    "RelativePath": "api/BahanBaku/{id}/update-stok",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "perubahanStok",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "KasirKafe_Kel6.Controllers.KalkulasiHargaController",
     "Method": "HitungHarga",
     "RelativePath": "api/KalkulasiHarga/hitung",
@@ -77,6 +119,22 @@
     "Parameters": [
       {
         "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KasirKafe_Kel6.Controllers.PencetakanController",
+    "Method": "CetakStruk",
+    "RelativePath": "api/Pencetakan/{pesananId}/cetak",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pesananId",
         "Type": "System.Int32",
         "IsRequired": true
       }

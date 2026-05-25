@@ -17,6 +17,7 @@ builder.Services.AddScoped<KalkulasiHargaService>();
 builder.Services.Configure<TokoSettings>(
     builder.Configuration.GetSection("TokoSettings"));
 builder.Services.AddScoped<PromoService>();
+builder.Services.AddScoped<PencetakanService>();
 
 var app = builder.Build();
 
