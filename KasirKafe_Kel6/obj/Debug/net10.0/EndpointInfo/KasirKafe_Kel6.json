@@ -5,6 +5,66 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/BahanBaku": {
+      "post": {
+        "tags": [
+          "BahanBaku"
+        ],
+        "parameters": [
+          {
+            "name": "nama",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "stokAwal",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/BahanBaku/{id}/update-stok": {
+      "put": {
+        "tags": [
+          "BahanBaku"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "perubahanStok",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/KalkulasiHarga/variasi": {
       "get": {
         "tags": [
@@ -118,6 +178,29 @@
         "parameters": [
           {
             "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Pencetakan/{pesananId}/cetak": {
+      "get": {
+        "tags": [
+          "Pencetakan"
+        ],
+        "parameters": [
+          {
+            "name": "pesananId",
             "in": "path",
             "required": true,
             "schema": {
@@ -305,10 +388,16 @@
   },
   "tags": [
     {
+      "name": "BahanBaku"
+    },
+    {
       "name": "KalkulasiHarga"
     },
     {
       "name": "Menu"
+    },
+    {
+      "name": "Pencetakan"
     },
     {
       "name": "Pesanan"
