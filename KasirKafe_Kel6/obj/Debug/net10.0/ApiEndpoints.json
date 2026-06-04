@@ -8,14 +8,51 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "nama",
-        "Type": "System.String",
-        "IsRequired": false
-      },
+        "Name": "request",
+        "Type": "KasirKafe_Kel6.DTO.BahanBakuRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KasirKafe_Kel6.Controllers.BahanBakuController",
+    "Method": "GetAll",
+    "RelativePath": "api/BahanBaku",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KasirKafe_Kel6.Controllers.BahanBakuController",
+    "Method": "GetById",
+    "RelativePath": "api/BahanBaku/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
       {
-        "Name": "stokAwal",
+        "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KasirKafe_Kel6.Controllers.BahanBakuController",
+    "Method": "Delete",
+    "RelativePath": "api/BahanBaku/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -151,7 +188,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "KasirKafe_Kel6.Models.PesananRequest",
+        "Type": "KasirKafe_Kel6.DTO.PesananRequest",
         "IsRequired": true
       }
     ],

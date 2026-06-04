@@ -11,6 +11,7 @@ namespace KasirKafe_Kel6.Models
         TersediaBanyak,
         DiRestock
     }
+
     public class BahanBaku
     {
         public int Id { get; set; }
@@ -39,13 +40,9 @@ namespace KasirKafe_Kel6.Models
             Stok += jumlahPerubahan;
 
             if (jumlahPerubahan > 0 && Status == StatusBahanBaku.Habis)
-            {
                 Status = StatusBahanBaku.DiRestock;
-            }
             else
-            {
                 UpdateStatusAutomata();
-            }
         }
 
         public void UpdateStatusAutomata()

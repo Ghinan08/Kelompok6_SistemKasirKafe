@@ -10,22 +10,34 @@
         "tags": [
           "BahanBaku"
         ],
-        "parameters": [
-          {
-            "name": "nama",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "stokAwal",
-            "in": "query",
-            "schema": {
-              "type": "integer",
-              "format": "int32"
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BahanBakuRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BahanBakuRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/BahanBakuRequest"
+              }
             }
           }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "BahanBaku"
         ],
         "responses": {
           "200": {
@@ -52,6 +64,50 @@
           {
             "name": "perubahanStok",
             "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/BahanBaku/{id}": {
+      "get": {
+        "tags": [
+          "BahanBaku"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "BahanBaku"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "integer",
               "format": "int32"
@@ -317,6 +373,25 @@
   },
   "components": {
     "schemas": {
+      "BahanBakuRequest": {
+        "required": [
+          "namaBahan"
+        ],
+        "type": "object",
+        "properties": {
+          "namaBahan": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "stokAwal": {
+            "maximum": 100000,
+            "minimum": 0,
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
       "KalkulasiHargaRequest": {
         "type": "object",
         "properties": {
@@ -367,17 +442,24 @@
         "additionalProperties": false
       },
       "PesananRequest": {
+        "required": [
+          "namaMenu"
+        ],
         "type": "object",
         "properties": {
           "namaMenu": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           },
           "jumlah": {
+            "maximum": 1000,
+            "minimum": 1,
             "type": "integer",
             "format": "int32"
           },
           "totalHarga": {
+            "maximum": 10000000,
+            "minimum": 0,
             "type": "number",
             "format": "double"
           }

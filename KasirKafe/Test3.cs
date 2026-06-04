@@ -8,7 +8,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
 using System.Diagnostics;
 
-// Percobaan automata dan kode reuse -Erland
 
 [TestClass]
 public class Test3
