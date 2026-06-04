@@ -41,24 +41,20 @@ namespace KasirKafe_Kel6.Services
                 {
                     string menu = pesanan.NamaMenu.ToLower();
 
-                    // Skenario 1: Kopi Susu butuh Biji Kopi (ID:1) dan Susu (ID:2)
                     if (menu.Contains("kopi susu") || menu.Contains("latte"))
                     {
                         _bahanBakuService.UpdateStokBahan(1, pesanan.Jumlah * -1);
                         _bahanBakuService.UpdateStokBahan(2, pesanan.Jumlah * -1);
                     }
-                    // Skenario 2: Kopi Hitam cuma butuh Biji Kopi (ID:1)
                     else if (menu.Contains("kopi hitam") || menu.Contains("americano"))
                     {
                         _bahanBakuService.UpdateStokBahan(1, pesanan.Jumlah * -1);
                     }
 
-                    // Jika stok aman dan berhasil dikurangi, ubah status pesanan
                     pesanan.ProsesPesanan();
                 }
                 catch (InvalidOperationException ex)
                 {
-                    // Jika stok di gudang kurang, gagalkan prosesnya!
                     throw new InvalidOperationException($"Gagal diproses! {ex.Message}");
                 }
             }
