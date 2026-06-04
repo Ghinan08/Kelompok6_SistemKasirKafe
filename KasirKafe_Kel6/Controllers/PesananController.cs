@@ -1,6 +1,9 @@
-﻿using KasirKafe_Kel6.Models;
-using KasirKafe_Kel6.Repositories;
+﻿using KasirKafe_Kel6.DTO;
+using KasirKafe_Kel6.Services;
+using KasirKafe_Kel6.Models;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
 
 namespace KasirKafe_Kel6.Controllers
 {
@@ -8,77 +11,50 @@ namespace KasirKafe_Kel6.Controllers
     [Route("api/[controller]")]
     public class PesananController : ControllerBase
     {
-        private readonly IRepository<Pesanan> _repository;
+        private readonly PesananService _service;
 
-        public PesananController(IRepository<Pesanan> repository)
+        public PesananController(PesananService service)
         {
-            _repository = repository;
+            _service = service;
         }
 
         [HttpPost]
-        public IActionResult TambahPesanan(PesananRequest request)
+        public IActionResult TambahPesanan([FromBody] PesananRequest request)
         {
-            var pesanan = new Pesanan
+            if (!ModelState.IsValid) return BadRequest(ModelState);
+
+            try
             {
-                NamaMenu = request.NamaMenu,
-                Jumlah = request.Jumlah,
-                TotalHarga = request.TotalHarga,
-                Status = "Dipesan"
-            };
-
-            _repository.Add(pesanan);
-
-            return Ok(ApiResponse<Pesanan>.Ok(
-                pesanan,
-                "Pesanan berhasil dibuat"
-            ));
+                var pesanan = _service.BuatPesanan(request);
+                return Ok(ApiResponse<Pesanan>.Ok(pesanan, "Pesanan masuk antrean dapur. (Stok belum dipotong)"));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ApiResponse<string>.Fail($"Gagal membuat pesanan: {ex.Message}"));
+            }
         }
 
         [HttpGet]
         public IActionResult GetAll()
         {
-            var data = _repository.GetAll();
-
-            return Ok(ApiResponse<IEnumerable<Pesanan>>.Ok(
-                data,
-                "Data pesanan berhasil diambil"
-            ));
+            var data = _service.GetAllPesanan();
+            return Ok(ApiResponse<IEnumerable<Pesanan>>.Ok(data, "Data pesanan berhasil diambil."));
         }
 
         [HttpPut("{id}/status")]
         public IActionResult UpdateStatus(int id)
         {
-            var pesanan = _repository.GetById(id);
-
-            if (pesanan == null)
+            try
             {
-                return NotFound(ApiResponse<string>.Fail(
-                    "Pesanan tidak ditemukan"
-                ));
-            }
+                var pesanan = _service.UpdateStatusPesanan(id);
+                if (pesanan == null) return NotFound(ApiResponse<string>.Fail("Pesanan tidak ditemukan."));
 
-            switch (pesanan.Status)
+                return Ok(ApiResponse<Pesanan>.Ok(pesanan, "Status pesanan berhasil diupdate."));
+            }
+            catch (InvalidOperationException ex)
             {
-                case "Dipesan":
-                    pesanan.Status = "Diproses";
-                    break;
-
-                case "Diproses":
-                    pesanan.Status = "Selesai";
-                    break;
-
-                case "Selesai":
-                    return BadRequest(ApiResponse<string>.Fail(
-                        "Pesanan sudah selesai"
-                    ));
+                return BadRequest(ApiResponse<string>.Fail(ex.Message));
             }
-
-            _repository.Update(pesanan);
-
-            return Ok(ApiResponse<Pesanan>.Ok(
-                pesanan,
-                "Status pesanan berhasil diupdate"
-            ));
         }
     }
 }

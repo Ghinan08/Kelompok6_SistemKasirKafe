@@ -3,28 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\pencetakanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\pencetakanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\pesanancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\pesanancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\bahanbaku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\bahanbaku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\promocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\promocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\pencetakancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\pencetakancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\dto\\pesananrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\dto\\pesananrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\pesananservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\pesananservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\dto\\bahanbakurequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\dto\\bahanbakurequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\bahanbakuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\bahanbakuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\bahanbakucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\bahanbakucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\hitungpromoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\hitungpromoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\promocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\promocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\pencetakanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\pencetakanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\pesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\pesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\bahanbaku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\bahanbaku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\pencetakancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\pencetakancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\hitungpromoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\hitungpromoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|c:\\users\\erland\\onedrive\\documents\\kuliah stuff\\semester 4\\kpl\\lab\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\promoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,24 +114,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 131,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PesananRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\DTO\\PesananRequest.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\DTO\\PesananRequest.cs",
+              "ToolTip": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\DTO\\PesananRequest.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\DTO\\PesananRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:25:09.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PesananService.cs",
+              "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PesananService.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\PesananService.cs",
+              "ToolTip": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PesananService.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Services\\PesananService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:26:32.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BahanBakuController.cs",
+              "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
+              "ToolTip": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T05:15:04.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Program.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Program.cs",
+              "ToolTip": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Program.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:27:39.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PromoController.cs",
+              "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PromoController.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\PromoController.cs",
+              "ToolTip": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PromoController.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\PromoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:00:54.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PesananController.cs",
+              "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PesananController.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\PesananController.cs",
+              "ToolTip": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PesananController.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\PesananController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:57:50.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BahanBakuService.cs",
+              "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\BahanBakuService.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\BahanBakuService.cs",
+              "ToolTip": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\BahanBakuService.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Services\\BahanBakuService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwDAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:26:09.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BahanBakuRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\DTO\\BahanBakuRequest.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\DTO\\BahanBakuRequest.cs",
+              "ToolTip": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\DTO\\BahanBakuRequest.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\DTO\\BahanBakuRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:24:19.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pesanan.cs",
+              "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Pesanan.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\Pesanan.cs",
+              "ToolTip": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Pesanan.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Models\\Pesanan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:57:23.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PencetakanService.cs",
               "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PencetakanService.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\PencetakanService.cs",
               "ToolTip": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PencetakanService.cs",
               "RelativeToolTip": "KasirKafe_Kel6\\Services\\PencetakanService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T05:16:31.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
+              "Title": "Test3.cs",
+              "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test3.cs",
+              "RelativeDocumentMoniker": "KasirKafe\\Test3.cs",
+              "ToolTip": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test3.cs",
+              "RelativeToolTip": "KasirKafe\\Test3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:31:55.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BahanBaku.cs",
+              "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\BahanBaku.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\BahanBaku.cs",
+              "ToolTip": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\BahanBaku.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Models\\BahanBaku.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T05:12:14.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "PencetakanController.cs",
               "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PencetakanController.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\PencetakanController.cs",
@@ -107,25 +282,11 @@
               "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\PencetakanController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T05:17:29.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T05:17:29.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BahanBakuController.cs",
-              "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
-              "ToolTip": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwCwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T05:15:04.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "HitungPromoResult.cs",
               "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\HitungPromoResult.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\HitungPromoResult.cs",
@@ -133,25 +294,11 @@
               "RelativeToolTip": "KasirKafe_Kel6\\Models\\HitungPromoResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T15:59:58.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-24T15:59:58.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BahanBaku.cs",
-              "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\BahanBaku.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\BahanBaku.cs",
-              "ToolTip": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\BahanBaku.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Models\\BahanBaku.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T05:12:14.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "KasirKafe_Kel6.http",
               "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.http",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\KasirKafe_Kel6.http",
@@ -163,19 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PromoController.cs",
-              "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PromoController.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\PromoController.cs",
-              "ToolTip": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PromoController.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\PromoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T16:00:54.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "PromoService.cs",
               "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PromoService.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\PromoService.cs",
@@ -187,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\appsettings.json",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\appsettings.json",
@@ -199,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "KalkulasiHargaService.cs",
               "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
@@ -211,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "TokoSettings.cs",
               "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\TokoSettings.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\TokoSettings.cs",
@@ -223,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Menu.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\Menu.cs",
@@ -235,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "KalkulasiResult.cs",
               "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
@@ -247,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "KalkulasiHargaRequest.cs",
               "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
@@ -259,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\ApiResponse.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\ApiResponse.cs",
@@ -271,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "KalkulasiHargaController.cs",
               "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
@@ -283,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Properties\\launchSettings.json",
@@ -295,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "KasirKafe_Kel6",
               "DocumentMoniker": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\KasirKafe_Kel6.csproj",

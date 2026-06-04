@@ -1,11 +1,23 @@
-﻿namespace KasirKafe_Kel6.Models
+﻿using System;
+using System.Text.Json.Serialization;
+
+namespace KasirKafe_Kel6.Models
 {
+    [JsonConverter(typeof(JsonStringEnumConverter))]
+    public enum StatusBahanBaku
+    {
+        Habis,
+        Menipis,
+        TersediaBanyak,
+        DiRestock
+    }
+
     public class BahanBaku
     {
         public int Id { get; set; }
         public string NamaBahan { get; set; } = string.Empty;
         public int Stok { get; private set; }
-        public string Status { get; private set; } = "Tersedia Banyak";
+        public StatusBahanBaku Status { get; private set; } = StatusBahanBaku.TersediaBanyak;
 
         public BahanBaku(string namaBahan, int stok)
         {
@@ -13,7 +25,7 @@
                 throw new ArgumentException("Nama bahan tidak boleh kosong.", nameof(namaBahan));
 
             if (stok < 0)
-                throw new ArgumentException("Stok tidak boleh negatif.", nameof(stok));
+                throw new ArgumentException("Stok awal tidak boleh negatif.", nameof(stok));
 
             NamaBahan = namaBahan;
             Stok = stok;
@@ -27,24 +39,20 @@
 
             Stok += jumlahPerubahan;
 
-            if (jumlahPerubahan > 0 && Status == "Habis")
-            {
-                Status = "Di-restock";
-            }
+            if (jumlahPerubahan > 0 && Status == StatusBahanBaku.Habis)
+                Status = StatusBahanBaku.DiRestock;
             else
-            {
                 UpdateStatusAutomata();
-            }
         }
 
         public void UpdateStatusAutomata()
         {
             if (Stok == 0)
-                Status = "Habis";
+                Status = StatusBahanBaku.Habis;
             else if (Stok <= 20)
-                Status = "Menipis";
+                Status = StatusBahanBaku.Menipis;
             else
-                Status = "Tersedia Banyak";
+                Status = StatusBahanBaku.TersediaBanyak;
         }
     }
 }

@@ -1,6 +1,9 @@
-﻿using KasirKafe_Kel6.Models;
-using KasirKafe_Kel6.Repositories;
+﻿using KasirKafe_Kel6.DTO;
+using KasirKafe_Kel6.Models;
+using KasirKafe_Kel6.Services;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
 
 namespace KasirKafe_Kel6.Controllers
 {
@@ -8,21 +11,22 @@ namespace KasirKafe_Kel6.Controllers
     [Route("api/[controller]")]
     public class BahanBakuController : ControllerBase
     {
-        private readonly IRepository<BahanBaku> _repo;
+        private readonly BahanBakuService _service;
 
-        public BahanBakuController(IRepository<BahanBaku> repo)
+        public BahanBakuController(BahanBakuService service)
         {
-            _repo = repo ?? throw new ArgumentNullException(nameof(repo));
+            _service = service;
         }
 
         [HttpPost]
-        public IActionResult TambahBahanBaku([FromQuery] string nama, [FromQuery] int stokAwal)
+        public IActionResult TambahBahanBaku([FromBody] BahanBakuRequest request)
         {
+            if (!ModelState.IsValid) return BadRequest(ModelState);
+
             try
             {
-                var bahan = new BahanBaku(nama, stokAwal);
-                _repo.Add(bahan);
-                return Ok(ApiResponse<BahanBaku>.Ok(bahan, "Bahan baku berhasil ditambahkan"));
+                var bahan = _service.TambahBahanBaru(request.NamaBahan, request.StokAwal);
+                return Ok(ApiResponse<BahanBaku>.Ok(bahan, "Bahan baku berhasil ditambahkan."));
             }
             catch (ArgumentException ex)
             {
@@ -33,19 +37,42 @@ namespace KasirKafe_Kel6.Controllers
         [HttpPut("{id}/update-stok")]
         public IActionResult UpdateStok(int id, [FromQuery] int perubahanStok)
         {
-            var bahan = _repo.GetById(id);
-            if (bahan == null) return NotFound(ApiResponse<string>.Fail("Bahan baku tidak ditemukan."));
-
             try
             {
-                bahan.UpdateStok(perubahanStok);
-                _repo.Update(bahan);
+                var bahan = _service.UpdateStokBahan(id, perubahanStok);
+                if (bahan == null) return NotFound(ApiResponse<string>.Fail("Bahan baku tidak ditemukan."));
+
                 return Ok(ApiResponse<BahanBaku>.Ok(bahan, "Stok dan status Automata berhasil diperbarui."));
             }
             catch (InvalidOperationException ex)
             {
                 return BadRequest(ApiResponse<string>.Fail(ex.Message));
             }
+        }
+
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+            var data = _service.GetAllBahanBaku();
+            return Ok(ApiResponse<IEnumerable<BahanBaku>>.Ok(data, "Data bahan baku berhasil diambil."));
+        }
+
+        [HttpGet("{id}")]
+        public IActionResult GetById(int id)
+        {
+            var bahan = _service.GetBahanBakuById(id);
+            if (bahan == null) return NotFound(ApiResponse<string>.Fail("Bahan baku tidak ditemukan."));
+
+            return Ok(ApiResponse<BahanBaku>.Ok(bahan, "Data bahan baku ditemukan."));
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
+        {
+            var isDeleted = _service.DeleteBahanBaku(id);
+            if (!isDeleted) return NotFound(ApiResponse<string>.Fail("Bahan baku tidak ditemukan."));
+
+            return Ok(ApiResponse<string>.Ok(string.Empty, "Bahan baku berhasil dihapus."));
         }
     }
 }

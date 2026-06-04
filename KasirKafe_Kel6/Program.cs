@@ -18,6 +18,8 @@ builder.Services.Configure<TokoSettings>(
     builder.Configuration.GetSection("TokoSettings"));
 builder.Services.AddScoped<PromoService>();
 builder.Services.AddScoped<PencetakanService>();
+builder.Services.AddScoped<BahanBakuService>();
+builder.Services.AddScoped<PesananService>();
 
 var app = builder.Build();
 

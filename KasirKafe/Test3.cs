@@ -8,7 +8,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
 using System.Diagnostics;
 
-// Percobaan automata dan kode reuse -Erland
 
 [TestClass]
 public class Test3
@@ -20,19 +19,19 @@ public class Test3
         bahan.UpdateStok(-10);
 
         Assert.AreEqual(0, bahan.Stok);
-        Assert.AreEqual("Habis", bahan.Status);
+        Assert.AreEqual(StatusBahanBaku.Habis, bahan.Status);
     }
 
     [TestMethod]
     public void Automata_BahanBaku_StateDiRestockLaluBanyak_Berhasil()
     {
         var bahan = new BahanBaku("Susu", 0);
-        Assert.AreEqual("Habis", bahan.Status);
+        Assert.AreEqual(StatusBahanBaku.Habis, bahan.Status);
 
         bahan.UpdateStok(50);
 
         bahan.UpdateStatusAutomata();
-        Assert.AreEqual("Tersedia Banyak", bahan.Status);
+        Assert.AreEqual(StatusBahanBaku.TersediaBanyak, bahan.Status);
     }
 
     [TestMethod]
@@ -62,7 +61,7 @@ public class Test3
         var sw = Stopwatch.StartNew();
         for (int i = 0; i < 1000; i++)
         {
-            service.GenerateStrukPDFText(pesananDummy);
+            service.GenerateStruk(pesananDummy);
         }
         sw.Stop();
 
