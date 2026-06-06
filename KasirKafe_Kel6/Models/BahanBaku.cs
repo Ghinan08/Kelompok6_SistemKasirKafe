@@ -16,9 +16,10 @@ namespace KasirKafe_Kel6.Models
     {
         public int Id { get; set; }
         public string NamaBahan { get; set; } = string.Empty;
-        public int Stok { get; private set; }
-        public StatusBahanBaku Status { get; private set; } = StatusBahanBaku.TersediaBanyak;
+        public int Stok { get;  set; }
+        public StatusBahanBaku Status { get;  set; } = StatusBahanBaku.TersediaBanyak;
 
+        protected BahanBaku() { }
         public BahanBaku(string namaBahan, int stok)
         {
             if (string.IsNullOrWhiteSpace(namaBahan))
