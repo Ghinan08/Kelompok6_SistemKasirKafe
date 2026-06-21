@@ -15,7 +15,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.OpenApi/10.0.5": {
+      "Microsoft.AspNetCore.OpenApi/10.0.9": {
         "type": "package",
         "dependencies": {
           "Microsoft.OpenApi": "2.0.0"
@@ -509,7 +509,7 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options.ConfigurationExtensions/10.0.0": {
+      "Microsoft.Extensions.Options.ConfigurationExtensions/10.0.9": {
         "type": "package",
         "compile": {
           "lib/net10.0/_._": {
@@ -525,7 +525,7 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.OpenApi/2.4.1": {
+      "Microsoft.OpenApi/2.7.5": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.OpenApi.dll": {
@@ -583,13 +583,13 @@
           }
         }
       },
-      "Swashbuckle.AspNetCore/10.1.7": {
+      "Swashbuckle.AspNetCore/10.2.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "10.0.0",
-          "Swashbuckle.AspNetCore.Swagger": "10.1.7",
-          "Swashbuckle.AspNetCore.SwaggerGen": "10.1.7",
-          "Swashbuckle.AspNetCore.SwaggerUI": "10.1.7"
+          "Swashbuckle.AspNetCore.Swagger": "10.2.2",
+          "Swashbuckle.AspNetCore.SwaggerGen": "10.2.2",
+          "Swashbuckle.AspNetCore.SwaggerUI": "10.2.2"
         },
         "build": {
           "build/Swashbuckle.AspNetCore.props": {}
@@ -598,10 +598,10 @@
           "buildMultiTargeting/Swashbuckle.AspNetCore.props": {}
         }
       },
-      "Swashbuckle.AspNetCore.Swagger/10.1.7": {
+      "Swashbuckle.AspNetCore.Swagger/10.2.2": {
         "type": "package",
         "dependencies": {
-          "Microsoft.OpenApi": "2.4.1"
+          "Microsoft.OpenApi": "2.7.5"
         },
         "compile": {
           "lib/net10.0/Swashbuckle.AspNetCore.Swagger.dll": {
@@ -617,10 +617,10 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Swashbuckle.AspNetCore.SwaggerGen/10.1.7": {
+      "Swashbuckle.AspNetCore.SwaggerGen/10.2.2": {
         "type": "package",
         "dependencies": {
-          "Swashbuckle.AspNetCore.Swagger": "10.1.7"
+          "Swashbuckle.AspNetCore.Swagger": "10.2.2"
         },
         "compile": {
           "lib/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
@@ -633,7 +633,7 @@
           }
         }
       },
-      "Swashbuckle.AspNetCore.SwaggerUI/10.1.7": {
+      "Swashbuckle.AspNetCore.SwaggerUI/10.2.2": {
         "type": "package",
         "compile": {
           "lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
@@ -796,10 +796,10 @@
         "logo.png"
       ]
     },
-    "Microsoft.AspNetCore.OpenApi/10.0.5": {
-      "sha512": "vTcxIfOPyfFbYk1g8YcXJfkMnlEWVkSnnjxcZLy60zgwiHMRf2SnZR+9E4HlpwKxgE3yfKMOti8J6WfKuKsw6w==",
+    "Microsoft.AspNetCore.OpenApi/10.0.9": {
+      "sha512": "1ihb8FO9cGgEK1/m3CTtT/SfnynwmiZib0W2pcDVj3KSWk/Sca4VOXEtaptKQc582zpFrzTFiwkGRCglt6H+WQ==",
       "type": "package",
-      "path": "microsoft.aspnetcore.openapi/10.0.5",
+      "path": "microsoft.aspnetcore.openapi/10.0.9",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -810,7 +810,7 @@
         "build/Microsoft.AspNetCore.OpenApi.targets",
         "lib/net10.0/Microsoft.AspNetCore.OpenApi.dll",
         "lib/net10.0/Microsoft.AspNetCore.OpenApi.xml",
-        "microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+        "microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
         "microsoft.aspnetcore.openapi.nuspec"
       ]
     },
@@ -2200,10 +2200,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Options.ConfigurationExtensions/10.0.0": {
-      "sha512": "tL9cSl3maS5FPzp/3MtlZI21ExWhni0nnUCF8HY4npTsINw45n9SNDbkKXBMtFyUFGSsQep25fHIDN4f/Vp3AQ==",
+    "Microsoft.Extensions.Options.ConfigurationExtensions/10.0.9": {
+      "sha512": "Y4E24zffF/aPS0igNvY6ZzAQfbxd6AYdC9L4brnH+uK0yYYHIR6FeGVQVVjAOo8wub1EQDl2B90lCcpqoTF7Yw==",
       "type": "package",
-      "path": "microsoft.extensions.options.configurationextensions/10.0.0",
+      "path": "microsoft.extensions.options.configurationextensions/10.0.9",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2224,15 +2224,15 @@
         "lib/net9.0/Microsoft.Extensions.Options.ConfigurationExtensions.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.xml",
-        "microsoft.extensions.options.configurationextensions.10.0.0.nupkg.sha512",
+        "microsoft.extensions.options.configurationextensions.10.0.9.nupkg.sha512",
         "microsoft.extensions.options.configurationextensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.OpenApi/2.4.1": {
-      "sha512": "u7QhXCISMQuab3flasb1hoaiERmUqyWsW7tmQODyILoQ7mJV5IRGM+2KKZYo0QUfC13evEOcHAb6TPWgqEQtrw==",
+    "Microsoft.OpenApi/2.7.5": {
+      "sha512": "0FA67RSnRM4tcBKqiqVu/HPdZ9+QOKbmeRjxRUGTCjPU4C0bmUhd97Dso7Yild5P7nOV6GxJ2xrK0Kv/O9xp0w==",
       "type": "package",
-      "path": "microsoft.openapi/2.4.1",
+      "path": "microsoft.openapi/2.7.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2243,7 +2243,7 @@
         "lib/netstandard2.0/Microsoft.OpenApi.dll",
         "lib/netstandard2.0/Microsoft.OpenApi.pdb",
         "lib/netstandard2.0/Microsoft.OpenApi.xml",
-        "microsoft.openapi.2.4.1.nupkg.sha512",
+        "microsoft.openapi.2.7.5.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
     },
@@ -2308,24 +2308,24 @@
         "pomelo.entityframeworkcore.mysql.nuspec"
       ]
     },
-    "Swashbuckle.AspNetCore/10.1.7": {
-      "sha512": "vgef8DPT411JU5JjHiDbr0WOxsIVuAvegPGtqmm4Na4JRl/264dfBJcGkiPHsAr5P+Vda+qN1rZKRtBl1rF9aA==",
+    "Swashbuckle.AspNetCore/10.2.2": {
+      "sha512": "vgXTCFRbRlfCJHE9zAhgd1QJR4AEoEuYm+i7E4xeqa/WNI77JHnNG21/NXdnK5tgpJeQ7pzp/vNYvTpMZDEd1A==",
       "type": "package",
-      "path": "swashbuckle.aspnetcore/10.1.7",
+      "path": "swashbuckle.aspnetcore/10.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "build/Swashbuckle.AspNetCore.props",
         "buildMultiTargeting/Swashbuckle.AspNetCore.props",
         "docs/package-readme.md",
-        "swashbuckle.aspnetcore.10.1.7.nupkg.sha512",
+        "swashbuckle.aspnetcore.10.2.2.nupkg.sha512",
         "swashbuckle.aspnetcore.nuspec"
       ]
     },
-    "Swashbuckle.AspNetCore.Swagger/10.1.7": {
-      "sha512": "EjLibt/d/QuRv170GoihTbcPUpgzSFm2WKHhnGJFZQ03JYzfuitsM79azaAR8NBwRunU7yScSX6HRE5JUlrEMQ==",
+    "Swashbuckle.AspNetCore.Swagger/10.2.2": {
+      "sha512": "XftCYHVoKpi1PO4FjZN4LqFgvcSJPAojTOBCokkEcJLitfAYbaLya1i1XjirnNd7pykK9Nedk3IANyGLVDbYSQ==",
       "type": "package",
-      "path": "swashbuckle.aspnetcore.swagger/10.1.7",
+      "path": "swashbuckle.aspnetcore.swagger/10.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2339,14 +2339,14 @@
         "lib/net9.0/Swashbuckle.AspNetCore.Swagger.pdb",
         "lib/net9.0/Swashbuckle.AspNetCore.Swagger.xml",
         "package-readme.md",
-        "swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
+        "swashbuckle.aspnetcore.swagger.10.2.2.nupkg.sha512",
         "swashbuckle.aspnetcore.swagger.nuspec"
       ]
     },
-    "Swashbuckle.AspNetCore.SwaggerGen/10.1.7": {
-      "sha512": "PuubO9BjvNn6U3D9kLpuWKY1JtziWw7SsGBq0age1E50uQjQ8Fzl8s0EwzrLfANqYJNgDnJi9l7N1QxcGVB2Zw==",
+    "Swashbuckle.AspNetCore.SwaggerGen/10.2.2": {
+      "sha512": "c0iLanVdOSs0JSmd3Oj8HObTgTsTP4UecynmaFrVTvX+76hnyLciA6Vb1oetmVjdQTpRJUzJlx/H19p8bLjVlg==",
       "type": "package",
-      "path": "swashbuckle.aspnetcore.swaggergen/10.1.7",
+      "path": "swashbuckle.aspnetcore.swaggergen/10.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2360,14 +2360,14 @@
         "lib/net9.0/Swashbuckle.AspNetCore.SwaggerGen.pdb",
         "lib/net9.0/Swashbuckle.AspNetCore.SwaggerGen.xml",
         "package-readme.md",
-        "swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
+        "swashbuckle.aspnetcore.swaggergen.10.2.2.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggergen.nuspec"
       ]
     },
-    "Swashbuckle.AspNetCore.SwaggerUI/10.1.7": {
-      "sha512": "iJo3ODyUb/M8Vm8AH1r9y9iAba0w95xsCn3zFVl96ISRHbTDWxi+l7oFVCZqUEdjd97B8VMDPnMliWAdomR8uw==",
+    "Swashbuckle.AspNetCore.SwaggerUI/10.2.2": {
+      "sha512": "DVpnuuBQxh95eo+2gQ/HXxrl91Fhe9JIWUW0KxiTV+nLFoJTCyUaJsKpB7kdowDHDk3qnGqF3sZaGrCmAhWCwg==",
       "type": "package",
-      "path": "swashbuckle.aspnetcore.swaggerui/10.1.7",
+      "path": "swashbuckle.aspnetcore.swaggerui/10.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2381,7 +2381,7 @@
         "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
         "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
         "package-readme.md",
-        "swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512",
+        "swashbuckle.aspnetcore.swaggerui.10.2.2.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
@@ -2568,13 +2568,13 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Microsoft.AspNetCore.OpenApi >= 10.0.5",
+      "Microsoft.AspNetCore.OpenApi >= 10.0.9",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.0",
       "Microsoft.EntityFrameworkCore.InMemory >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.0",
-      "Microsoft.Extensions.Options.ConfigurationExtensions >= 10.0.0",
+      "Microsoft.Extensions.Options.ConfigurationExtensions >= 10.0.9",
       "Pomelo.EntityFrameworkCore.MySql >= 9.0.0",
-      "Swashbuckle.AspNetCore >= 10.1.7"
+      "Swashbuckle.AspNetCore >= 10.2.2"
     ]
   },
   "packageFolders": {
@@ -2584,11 +2584,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+      "projectUniqueName": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
       "projectName": "KasirKafe_Kel6",
-      "projectPath": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+      "projectPath": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
       "packagesPath": "C:\\Users\\Win10pro\\.nuget\\packages\\",
-      "outputPath": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\obj\\",
+      "outputPath": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2631,7 +2631,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
-            "version": "[10.0.5, )"
+            "version": "[10.0.9, )"
           },
           "Microsoft.EntityFrameworkCore.Design": {
             "target": "Package",
@@ -2647,7 +2647,7 @@
           },
           "Microsoft.Extensions.Options.ConfigurationExtensions": {
             "target": "Package",
-            "version": "[10.0.0, )"
+            "version": "[10.0.9, )"
           },
           "Pomelo.EntityFrameworkCore.MySql": {
             "target": "Package",
@@ -2655,7 +2655,7 @@
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
-            "version": "[10.1.7, )"
+            "version": "[10.2.2, )"
           }
         },
         "imports": [
@@ -2677,7 +2677,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -3100,7 +3100,7 @@
       "code": "NU1510",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "PackageReference Microsoft.Extensions.Options.ConfigurationExtensions will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "message": "PackageReference Microsoft.Extensions.Options.ConfigurationExtensions will not be pruned. This package is automatically available and does not need to be referenced explicitly. Remove the PackageReference item.",
       "libraryId": "Microsoft.Extensions.Options.ConfigurationExtensions",
       "targetGraphs": [
         "net10.0"

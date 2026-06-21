@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "KasirKafeWinForms\\KasirKafeWinForms.csproj",
+        "Action": "Start",
+        "DebugTarget": "KasirKafeWinForms"
+      },
+      {
+        "Path": "KasirKafe\\KasirKafe.csproj",
+        "Action": "Start",
+        "DebugTarget": "KasirKafe"
+      }
+    ]
+  }
+]

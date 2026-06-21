@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "n9pxCLKCIQw=",
+  "success": true,
+  "projectFilePath": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10pro\\.nuget\\packages\\system.text.json\\10.0.9\\system.text.json.10.0.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Text.Json will not be pruned. This package is automatically available and does not need to be referenced explicitly. Remove the PackageReference item.",
+      "projectPath": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net10.0-windows7.0"
+      ]
+    }
+  ]
+}
