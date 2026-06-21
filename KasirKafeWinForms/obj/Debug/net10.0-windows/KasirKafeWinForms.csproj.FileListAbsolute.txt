@@ -1,0 +1,17 @@
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.exe
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.deps.json
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.runtimeconfig.json
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.dll
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.pdb
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.csproj.GenerateResource.cache
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.GeneratedMSBuildEditorConfig.editorconfig
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.AssemblyInfoInputs.cache
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.AssemblyInfo.cs
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.csproj.CoreCompileInputs.cache
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.sourcelink.json
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.dll
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\refint\KasirKafeWinForms.dll
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.pdb
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.genruntimeconfig.cache
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\ref\KasirKafeWinForms.dll
+F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafe_Kel6.FormMenu.resources

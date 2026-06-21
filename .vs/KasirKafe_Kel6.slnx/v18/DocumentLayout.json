@@ -1,158 +1,186 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\",
+  "WorkspaceRootPath": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\bahanbaku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\bahanbaku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafewinforms\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|solutionrelative:kasirkafewinforms\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafewinforms\\formmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|solutionrelative:kasirkafewinforms\\formmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\hitungpromoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\hitungpromoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafewinforms\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|solutionrelative:kasirkafewinforms\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafewinforms\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|solutionrelative:kasirkafewinforms\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\promocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\promocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\pesanancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\pesanancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\bahanbakucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\bahanbakucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\kalkulasihargacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\kalkulasihargacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\pencetakancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\pencetakancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\kalkulasiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\kalkulasiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\menuvariasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\menuvariasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\pesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\pesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\dto\\pesananrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\dto\\pesananrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafewinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|solutionrelative:kasirkafewinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\tokosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\tokosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\kasirkafewinforms\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|solutionrelative:kasirkafewinforms\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\dto\\bahanbakurequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\dto\\bahanbakurequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\kalkulasihargarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\kalkulasihargarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\migrations\\20260606091445_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\migrations\\20260606091445_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\kasirkafe_kel6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\kasirkafe_kel6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\kasirkafe_kel6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\kasirkafe_kel6.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\kasirkafe_kel6.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafewinforms\\formmenu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|solutionrelative:kasirkafewinforms\\formmenu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe\\kasirkafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\kasirkafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafewinforms\\kasirkafewinforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05CF0129-8F47-4A21-B910-9E8CA205CEF3}|KasirKafeWinForms\\KasirKafeWinForms.csproj|solutionrelative:kasirkafewinforms\\kasirkafewinforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\pencetakanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\pencetakanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\pesananservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\pesananservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\bahanbakuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\bahanbakuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\kalkulasihargaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\kalkulasihargaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\promoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\promoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\clone\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\kasirkafe_kel6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\kasirkafe_kel6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\pencetakanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\pencetakanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\promocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\promocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\pesanancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\pesanancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\pencetakancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\pencetakancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\promoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\promoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\pesananservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\pesananservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\kalkulasihargaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\kalkulasihargaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\services\\bahanbakuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\services\\bahanbakuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\tokosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\tokosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\pesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\pesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\menuvariasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\menuvariasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\kalkulasiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\kalkulasiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\kalkulasihargarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\kalkulasihargarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\hitungpromoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\hitungpromoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\bahanbaku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\bahanbaku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\migrations\\20260606091445_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\migrations\\20260606091445_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\dto\\pesananrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\dto\\pesananrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\dto\\bahanbakurequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\dto\\bahanbakurequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\kalkulasihargacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\kalkulasihargacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\controllers\\bahanbakucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\controllers\\bahanbakucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe_kel6\\kasirkafe_kel6.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{88A2B615-95A9-F410-306B-F6A57B36F3DC}|KasirKafe_Kel6\\KasirKafe_Kel6.csproj|solutionrelative:kasirkafe_kel6\\kasirkafe_kel6.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|f:\\folder ghinan\\tubes\\kelompok6_sistemkasirkafe\\kasirkafe\\kasirkafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F211967D-0172-464C-981C-B75A532D3BFB}|KasirKafe\\KasirKafe.csproj|solutionrelative:kasirkafe\\kasirkafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -162,7 +190,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 131,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,244 +202,303 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PesananController.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PesananController.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\PesananController.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PesananController.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\PesananController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T08:49:55.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PromoController.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PromoController.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\PromoController.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PromoController.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\PromoController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T08:49:56.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Data\\AppDbContext.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T08:48:13.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HitungPromoResult.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\HitungPromoResult.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\HitungPromoResult.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\HitungPromoResult.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Models\\HitungPromoResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T08:49:29.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BahanBaku.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\BahanBaku.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\BahanBaku.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\BahanBaku.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Models\\BahanBaku.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAzAAAAAAAAAA==",
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\FormMenu.cs",
+              "RelativeDocumentMoniker": "KasirKafeWinForms\\FormMenu.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\FormMenu.cs",
+              "RelativeToolTip": "KasirKafeWinForms\\FormMenu.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T08:46:41.916Z",
+              "WhenOpened": "2026-06-21T09:36:35.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\Program.cs",
+              "RelativeDocumentMoniker": "KasirKafeWinForms\\Program.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\Program.cs",
+              "RelativeToolTip": "KasirKafeWinForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:30:13.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\ApiResponse.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\ApiResponse.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Models\\ApiResponse.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowBUAAAA7AAAAAAAAAA==",
+              "Title": "FormMenu.Designer.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\FormMenu.Designer.cs",
+              "RelativeDocumentMoniker": "KasirKafeWinForms\\FormMenu.Designer.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\FormMenu.Designer.cs",
+              "RelativeToolTip": "KasirKafeWinForms\\FormMenu.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowJAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T15:43:28.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BahanBakuController.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T08:49:49.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "KalkulasiHargaController.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T15:50:19.757Z",
+              "WhenOpened": "2026-06-21T09:28:24.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\MenuController.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\MenuController.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\MenuController.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\MenuController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T08:49:52.949Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\appsettings.json",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\appsettings.json",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\appsettings.json",
+              "RelativeToolTip": "KasirKafe_Kel6\\appsettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-24T15:39:38.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PencetakanController.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PencetakanController.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\PencetakanController.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PencetakanController.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\PencetakanController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T08:49:54.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "KalkulasiResult.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T15:45:32.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Menu.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\Menu.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Menu.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Models\\Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T03:29:44.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MenuVariasi.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\MenuVariasi.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\MenuVariasi.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\MenuVariasi.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Models\\MenuVariasi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T16:14:34.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Pesanan.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Pesanan.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\Pesanan.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Pesanan.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Models\\Pesanan.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T16:04:12.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Repositories\\IRepository.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T16:14:26.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Repositories\\Repository.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\Repository.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Repositories\\Repository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwC0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T16:14:23.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Program.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Program.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Program.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Program.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Program.cs",
               "RelativeToolTip": "KasirKafe_Kel6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T16:14:05.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PesananRequest.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\DTO\\PesananRequest.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\DTO\\PesananRequest.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\DTO\\PesananRequest.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\DTO\\PesananRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "KasirKafeWinForms\\Models\\Menu.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\Models\\Menu.cs",
+              "RelativeToolTip": "KasirKafeWinForms\\Models\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T08:50:38.765Z"
+              "WhenOpened": "2026-06-21T09:29:20.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "KasirKafeWinForms\\Models\\ApiResponse.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "KasirKafeWinForms\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T09:29:52.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMenu.cs [Design]",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\FormMenu.cs",
+              "RelativeDocumentMoniker": "KasirKafeWinForms\\FormMenu.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\FormMenu.cs [Design]",
+              "RelativeToolTip": "KasirKafeWinForms\\FormMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T11:31:36.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KasirKafe_Kel6.csproj",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+              "RelativeToolTip": "KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-06T08:43:16.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMenu.resx",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\FormMenu.resx",
+              "RelativeDocumentMoniker": "KasirKafeWinForms\\FormMenu.resx",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\FormMenu.resx",
+              "RelativeToolTip": "KasirKafeWinForms\\FormMenu.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-21T11:39:01.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KasirKafeWinForms.csproj",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
+              "RelativeDocumentMoniker": "KasirKafeWinForms\\KasirKafeWinForms.csproj",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
+              "RelativeToolTip": "KasirKafeWinForms\\KasirKafeWinForms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-21T10:02:42.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KasirKafe_Kel6\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T03:51:25.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PencetakanService.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PencetakanService.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\PencetakanService.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PencetakanService.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Services\\PencetakanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:14:09.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\Menu.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Menu.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Models\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T03:29:44.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PromoController.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PromoController.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\PromoController.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PromoController.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\PromoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T08:49:56.781Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "PromoService.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PromoService.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\PromoService.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PromoService.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Services\\PromoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:00:21.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\MenuController.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T08:49:52.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PencetakanController.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PencetakanController.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\PencetakanController.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PencetakanController.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\PencetakanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T08:49:54.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PesananController.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PesananController.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\PesananController.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\PesananController.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\PesananController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T08:49:55.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KalkulasiHargaService.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:48:09.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PesananService.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PesananService.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\PesananService.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PesananService.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Services\\PesananService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:13:47.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BahanBakuService.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\BahanBakuService.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\BahanBakuService.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\BahanBakuService.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Services\\BahanBakuService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:14:20.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Repositories\\Repository.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\Repository.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:14:23.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Repositories\\IRepository.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:14:26.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "TokoSettings.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\TokoSettings.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\TokoSettings.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\TokoSettings.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\TokoSettings.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\TokoSettings.cs",
               "RelativeToolTip": "KasirKafe_Kel6\\Models\\TokoSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,23 +506,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BahanBakuRequest.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\DTO\\BahanBakuRequest.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\DTO\\BahanBakuRequest.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\DTO\\BahanBakuRequest.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\DTO\\BahanBakuRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "Pesanan.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Pesanan.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\Pesanan.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\Pesanan.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Models\\Pesanan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T08:49:45.407Z"
+              "WhenOpened": "2026-06-04T16:04:12.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
+              "Title": "MenuVariasi.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\MenuVariasi.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\MenuVariasi.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\MenuVariasi.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Models\\MenuVariasi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:14:34.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "KalkulasiResult.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Models\\KalkulasiResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:45:32.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "KalkulasiHargaRequest.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
               "RelativeToolTip": "KasirKafe_Kel6\\Models\\KalkulasiHargaRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -443,59 +554,167 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
+              "Title": "HitungPromoResult.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\HitungPromoResult.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\HitungPromoResult.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\HitungPromoResult.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Models\\HitungPromoResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T08:49:29.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BahanBaku.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\BahanBaku.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\BahanBaku.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\BahanBaku.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Models\\BahanBaku.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T08:46:41.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Models\\ApiResponse.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:43:28.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Migrations\\AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeToolTip": "KasirKafe_Kel6\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-06T09:49:54.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 33,
               "Title": "20260606091445_InitialCreate.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Migrations\\20260606091445_InitialCreate.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Migrations\\20260606091445_InitialCreate.cs",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\Migrations\\20260606091445_InitialCreate.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Migrations\\20260606091445_InitialCreate.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Migrations\\20260606091445_InitialCreate.cs",
               "RelativeToolTip": "KasirKafe_Kel6\\Migrations\\20260606091445_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-06T09:14:45.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "KasirKafe_Kel6.csproj",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
-              "RelativeToolTip": "KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-06T08:43:16.764Z"
+              "DocumentIndex": 34,
+              "Title": "PesananRequest.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\DTO\\PesananRequest.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\DTO\\PesananRequest.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\DTO\\PesananRequest.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\DTO\\PesananRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T08:50:38.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 35,
+              "Title": "BahanBakuRequest.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\DTO\\BahanBakuRequest.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\DTO\\BahanBakuRequest.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\DTO\\BahanBakuRequest.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\DTO\\BahanBakuRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T08:49:45.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T08:48:13.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "KalkulasiHargaController.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\KalkulasiHargaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:50:19.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BahanBakuController.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
+              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
+              "RelativeToolTip": "KasirKafe_Kel6\\Controllers\\BahanBakuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T08:49:49.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "Test3.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test3.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test3.cs",
               "RelativeDocumentMoniker": "KasirKafe\\Test3.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test3.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test3.cs",
               "RelativeToolTip": "KasirKafe\\Test3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-06T09:09:46.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 40,
+              "Title": "Test2.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test2.cs",
+              "RelativeDocumentMoniker": "KasirKafe\\Test2.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test2.cs",
+              "RelativeToolTip": "KasirKafe\\Test2.cs",
+              "ViewState": "AgIAAOMBAAAAAAAAAIBJwOABAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:18:47.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test1.cs",
+              "RelativeDocumentMoniker": "KasirKafe\\Test1.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test1.cs",
+              "RelativeToolTip": "KasirKafe\\Test1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:05:12.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
               "Title": "MSTestSettings.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe\\MSTestSettings.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe\\MSTestSettings.cs",
               "RelativeDocumentMoniker": "KasirKafe\\MSTestSettings.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe\\MSTestSettings.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe\\MSTestSettings.cs",
               "RelativeToolTip": "KasirKafe\\MSTestSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -503,47 +722,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Test2.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test2.cs",
-              "RelativeDocumentMoniker": "KasirKafe\\Test2.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test2.cs",
-              "RelativeToolTip": "KasirKafe\\Test2.cs",
-              "ViewState": "AgIAANsAAAAAAAAAAAAxwAQBAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T16:18:47.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Test1.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test1.cs",
-              "RelativeDocumentMoniker": "KasirKafe\\Test1.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe\\Test1.cs",
-              "RelativeToolTip": "KasirKafe\\Test1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T16:05:12.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\appsettings.json",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\appsettings.json",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\appsettings.json",
-              "RelativeToolTip": "KasirKafe_Kel6\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-24T15:39:38.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 43,
               "Title": "KasirKafe_Kel6.http",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.http",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.http",
               "RelativeDocumentMoniker": "KasirKafe_Kel6\\KasirKafe_Kel6.http",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.http",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.http",
               "RelativeToolTip": "KasirKafe_Kel6\\KasirKafe_Kel6.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -551,102 +734,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 44,
               "Title": "KasirKafe.csproj",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe\\KasirKafe.csproj",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe\\KasirKafe.csproj",
               "RelativeDocumentMoniker": "KasirKafe\\KasirKafe.csproj",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe\\KasirKafe.csproj",
+              "ToolTip": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafe\\KasirKafe.csproj",
               "RelativeToolTip": "KasirKafe\\KasirKafe.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-06-06T08:58:05.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "PencetakanService.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PencetakanService.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\PencetakanService.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PencetakanService.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Services\\PencetakanService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T16:14:09.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "PesananService.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PesananService.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\PesananService.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PesananService.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Services\\PesananService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T16:13:47.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "BahanBakuService.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\BahanBakuService.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\BahanBakuService.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\BahanBakuService.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Services\\BahanBakuService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T16:14:20.945Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "PromoService.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PromoService.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\PromoService.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\PromoService.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Services\\PromoService.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowDYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T16:00:21.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "KalkulasiHargaService.cs",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
-              "RelativeToolTip": "KasirKafe_Kel6\\Services\\KalkulasiHargaService.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAwwF4AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T15:48:09.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\Properties\\launchSettings.json",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\Properties\\launchSettings.json",
-              "RelativeToolTip": "KasirKafe_Kel6\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-23T03:51:25.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "KasirKafe_Kel6",
-              "DocumentMoniker": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
-              "RelativeDocumentMoniker": "KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
-              "ToolTip": "F:\\Folder GHINAN\\Clone\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
-              "RelativeToolTip": "KasirKafe_Kel6\\KasirKafe_Kel6.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-23T03:51:17.038Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

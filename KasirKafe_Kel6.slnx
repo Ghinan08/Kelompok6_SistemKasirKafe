@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="KasirKafe/KasirKafe.csproj" Id="f211967d-0172-464c-981c-b75a532d3bfb" />
+  <Project Path="KasirKafeWinForms/KasirKafeWinForms.csproj" Id="05cf0129-8f47-4a21-b910-9e8ca205cef3" />
   <Project Path="KasirKafe_Kel6/KasirKafe_Kel6.csproj" />
 </Solution>
