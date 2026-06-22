@@ -7,6 +7,9 @@
     <ActiveDebugProfile>KasirKafeWinForms</ActiveDebugProfile>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Update="FormBahanBaku.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="FormMenu.cs">
       <SubType>Form</SubType>
     </Compile>
