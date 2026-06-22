@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "n9pxCLKCIQw=",
+  "dgSpecHash": "5HcdQ8TqmGI=",
   "success": true,
-  "projectFilePath": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
+  "projectFilePath": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\GUI v1\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Win10pro\\.nuget\\packages\\system.text.json\\10.0.9\\system.text.json.10.0.9.nupkg.sha512"
+    "C:\\Users\\MSI GF63\\.nuget\\packages\\system.text.json\\10.0.9\\system.text.json.10.0.9.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference System.Text.Json will not be pruned. This package is automatically available and does not need to be referenced explicitly. Remove the PackageReference item.",
-      "projectPath": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
+      "projectPath": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\GUI v1\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
       "warningLevel": 1,
-      "filePath": "F:\\Folder GHINAN\\Tubes\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
+      "filePath": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\GUI v1\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
       "libraryId": "System.Text.Json",
       "targetGraphs": [
         "net10.0-windows7.0"

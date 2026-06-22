@@ -11,11 +11,6 @@
         "Path": "KasirKafeWinForms\\KasirKafeWinForms.csproj",
         "Action": "Start",
         "DebugTarget": "KasirKafeWinForms"
-      },
-      {
-        "Path": "KasirKafe\\KasirKafe.csproj",
-        "Action": "Start",
-        "DebugTarget": "KasirKafe"
       }
     ]
   }

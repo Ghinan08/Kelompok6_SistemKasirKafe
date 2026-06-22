@@ -15,3 +15,21 @@ F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net
 F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.genruntimeconfig.cache
 F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\ref\KasirKafeWinForms.dll
 F:\Folder GHINAN\Tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafe_Kel6.FormMenu.resources
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.exe
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.deps.json
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.runtimeconfig.json
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.dll
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.pdb
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafe_Kel6.FormBahanBaku.resources
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafe_Kel6.FormMenu.resources
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.csproj.GenerateResource.cache
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.AssemblyInfoInputs.cache
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.AssemblyInfo.cs
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.sourcelink.json
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.dll
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\refint\KasirKafeWinForms.dll
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.pdb
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.genruntimeconfig.cache
+C:\Users\MSI GF63\Documents\tel-u\semester 4\KONSTRUKSI PERANGKAT LUNAK\Tugas Kelompok6_SistemKasirKafe\GUI v1\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\ref\KasirKafeWinForms.dll
