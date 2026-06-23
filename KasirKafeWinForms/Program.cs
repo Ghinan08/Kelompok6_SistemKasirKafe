@@ -1,6 +1,7 @@
+using KasirKafe;
+using KasirKafe_Kel6;
 using System;
 using System.Windows.Forms;
-using KasirKafe_Kel6;
 
 namespace KasirKafe_Kel6
 {
@@ -16,7 +17,7 @@ namespace KasirKafe_Kel6
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             //Application.Run(new FormKasir());
-            Application.Run(new FormDapur()); // test FormDapur
+            Application.Run(new FormUtama()); // test FormUtama
         }
     }
 }

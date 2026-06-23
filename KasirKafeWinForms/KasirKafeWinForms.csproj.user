@@ -19,5 +19,11 @@
     <Compile Update="FormMenu.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FormStruk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormUtama.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
