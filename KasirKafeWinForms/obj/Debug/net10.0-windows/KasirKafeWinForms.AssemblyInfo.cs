@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KasirKafeWinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a1249c6f18173eed5b62fc4369a3d7c55a49713")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67f2cf5f9c869cbdae85e74ded96f5bed3aca02a")]
 [assembly: System.Reflection.AssemblyProductAttribute("KasirKafeWinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KasirKafeWinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
