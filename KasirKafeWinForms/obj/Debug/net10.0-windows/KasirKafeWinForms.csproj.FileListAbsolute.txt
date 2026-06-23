@@ -52,3 +52,43 @@ C:\sem 4\KPL KEL\LAST\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net1
 C:\sem 4\KPL KEL\LAST\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.pdb
 C:\sem 4\KPL KEL\LAST\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.genruntimeconfig.cache
 C:\sem 4\KPL KEL\LAST\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\ref\KasirKafeWinForms.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.exe
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.deps.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.runtimeconfig.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.pdb
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafe_Kel6.FormBahanBaku.resources
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafe_Kel6.FormDapur.resources
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafe_Kel6.FormKasir.resources
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafe_Kel6.FormMenu.resources
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.csproj.GenerateResource.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.AssemblyInfoInputs.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.AssemblyInfo.cs
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.sourcelink.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\refint\KasirKafeWinForms.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.pdb
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.genruntimeconfig.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe\KasirKafeWinForms\obj\Debug\net10.0-windows\ref\KasirKafeWinForms.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.exe
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.deps.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.runtimeconfig.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\bin\Debug\net10.0-windows\KasirKafeWinForms.pdb
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafe_Kel6.FormBahanBaku.resources
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafe_Kel6.FormDapur.resources
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafe_Kel6.FormKasir.resources
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafe_Kel6.FormMenu.resources
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.csproj.GenerateResource.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.AssemblyInfoInputs.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.AssemblyInfo.cs
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.sourcelink.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\obj\Debug\net10.0-windows\refint\KasirKafeWinForms.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.pdb
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\obj\Debug\net10.0-windows\KasirKafeWinForms.genruntimeconfig.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\tubes\Kelompok6_SistemKasirKafe Erland\KasirKafeWinForms\obj\Debug\net10.0-windows\ref\KasirKafeWinForms.dll

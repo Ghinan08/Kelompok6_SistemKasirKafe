@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net10.0": {
       "Humanizer.Core/2.14.1": {
@@ -5174,23 +5174,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO LOQ 15\\.nuget\\packages\\": {},
+    "C:\\Users\\Erland\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sem 4\\KPL KEL\\LAST\\Kelompok6_SistemKasirKafe\\KasirKafe\\KasirKafe.csproj",
+      "projectUniqueName": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe Erland\\KasirKafe\\KasirKafe.csproj",
       "projectName": "KasirKafe",
-      "projectPath": "C:\\sem 4\\KPL KEL\\LAST\\Kelompok6_SistemKasirKafe\\KasirKafe\\KasirKafe.csproj",
-      "packagesPath": "C:\\Users\\LENOVO LOQ 15\\.nuget\\packages\\",
-      "outputPath": "C:\\sem 4\\KPL KEL\\LAST\\Kelompok6_SistemKasirKafe\\KasirKafe\\obj\\",
+      "projectPath": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe Erland\\KasirKafe\\KasirKafe.csproj",
+      "packagesPath": "C:\\Users\\Erland\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe Erland\\KasirKafe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\LENOVO LOQ 15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Erland\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5203,11 +5203,10 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\sem 4\\KPL KEL\\LAST\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj": {
-              "projectPath": "C:\\sem 4\\KPL KEL\\LAST\\Kelompok6_SistemKasirKafe\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj"
+            "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe Erland\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj": {
+              "projectPath": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe Erland\\KasirKafe_Kel6\\KasirKafe_Kel6.csproj"
             }
           }
         }
@@ -5222,11 +5221,10 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "MSTest": {
@@ -5262,7 +5260,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
