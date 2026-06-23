@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "5HcdQ8TqmGI=",
+  "dgSpecHash": "pbo9P+FUKfk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\GUI v1\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
+  "projectFilePath": "C:\\sem 4\\KPL KEL\\LAST\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MSI GF63\\.nuget\\packages\\system.text.json\\10.0.9\\system.text.json.10.0.9.nupkg.sha512"
+    "C:\\Users\\LENOVO LOQ 15\\.nuget\\packages\\system.text.json\\10.0.9\\system.text.json.10.0.9.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1510",
       "level": "Warning",
-      "message": "PackageReference System.Text.Json will not be pruned. This package is automatically available and does not need to be referenced explicitly. Remove the PackageReference item.",
-      "projectPath": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\GUI v1\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
+      "message": "PackageReference System.Text.Json will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\sem 4\\KPL KEL\\LAST\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\MSI GF63\\Documents\\tel-u\\semester 4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas Kelompok6_SistemKasirKafe\\GUI v1\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
+      "filePath": "C:\\sem 4\\KPL KEL\\LAST\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
       "libraryId": "System.Text.Json",
       "targetGraphs": [
         "net10.0-windows7.0"
