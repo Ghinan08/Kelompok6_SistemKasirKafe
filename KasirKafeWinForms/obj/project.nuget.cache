@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "xKABVreO5gE=",
+  "dgSpecHash": "Ox5XDQE178s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe Erland\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
+  "projectFilePath": "D:\\Last\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Erland\\.nuget\\packages\\system.text.json\\10.0.9\\system.text.json.10.0.9.nupkg.sha512"
+    "C:\\Users\\dddzu\\.nuget\\packages\\system.text.json\\10.0.9\\system.text.json.10.0.9.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference System.Text.Json will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
-      "projectPath": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe Erland\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
+      "projectPath": "D:\\Last\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Erland\\OneDrive\\Documents\\Kuliah stuff\\Semester 4\\KPL\\Lab\\tubes\\Kelompok6_SistemKasirKafe Erland\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
+      "filePath": "D:\\Last\\Kelompok6_SistemKasirKafe\\KasirKafeWinForms\\KasirKafeWinForms.csproj",
       "libraryId": "System.Text.Json",
       "targetGraphs": [
         "net10.0-windows7.0"

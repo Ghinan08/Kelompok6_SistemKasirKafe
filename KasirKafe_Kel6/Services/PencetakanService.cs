@@ -24,7 +24,7 @@ namespace KasirKafe_Kel6.Services
                 "-------------------------------------------",
                 $"ITEM        : {pesanan.NamaMenu}",
                 $"JUMLAH      : {pesanan.Jumlah}",
-                $"TOTAL BAYAR : Rp{pesanan.TotalHarga:N0}",
+                $"\nTOTAL BAYAR : Rp{pesanan.TotalHarga:N0}",
                 $"STATUS      : {pesanan.Status}",
                 "===========================================",
                 "     Terima Kasih Atas Kunjungan Anda!     "
